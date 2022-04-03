@@ -113,11 +113,11 @@ content:
 
   - title: Education
     layout: list
-    content:
-      - title: Federal University of Rio Grande do Norte
+    content:  
+      - title: PhD
         border: weak
         sub_title: September 2011- May 2016
-        caption: Posgraduate
+        caption: Federal University of Rio Grande do Norte
         # quote: >
         #   Short institution or course description
         description: >
@@ -126,26 +126,26 @@ content:
           methods for the processing of medical images.
 
       - layout: left
-        title: Federal University of Rio Grande do Norte
+        title: Posgraduate
         sub_title: January 2009 – November 2010
-        caption: Posgraduate
+        caption: Federal University of Rio Grande do Norte
         description: >
           Master's Systems and Theory of Computing with emphasis on computational mathematics.
 
       - layout: left
-        title: Federal Institute of Education Science and Technology of Rio Grande do Norte
+        title: Degree
         sub_title: July 2004 - July 2009
-        caption: Degree
+        caption: Federal Institute of Education Science and Technology of Rio Grande do Norte
         description: >
-          Graduated in Technology and Software Development with emphasis on analysis, development
+          Degree in Technology and Software Development with emphasis on analysis, development
           and deployment of web systems and database administration.
 
       - layout: left
-        title: Federal University of Rio Grande do Norte
+        title: Bachelor
         sub_title: January 1999 - March 2003
-        caption: Degree
+        caption: Federal University of Rio Grande do Norte
         description: >
-          Degree in Mathematics with emphasis on analytical and pure mathematics and training 
+          Bachelor in Mathematics with emphasis on analytical and pure mathematics and training 
           for teaching.
   - title: A Little More About Me
     layout: text
