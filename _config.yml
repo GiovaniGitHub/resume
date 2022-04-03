@@ -25,7 +25,7 @@ linkedin_username: giovaninobrega
 
 about_profile_image: images/avatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
-Software Engineer with 15 years of experience in the area both teaching and developing systems. In the last 6 years in backend development and data engineering using languages like python, javascript and scala.
+  Software Engineer with 15 years of experience in the area both teaching and developing systems. In the last 6 years in backend development and data engineering using languages like python, javascript and scala.
 
 content:
   - title: Experience
