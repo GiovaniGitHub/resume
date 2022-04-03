@@ -74,7 +74,8 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Development of bots and web scrapers with Python and models to mining with R.
+           Development of georeferenced image processing systems using Python tools 
+           integrating with back ends developed in Java.
       - layout: left
         title: LAIS - Laboratório de Inovação Tecnologia em Saúde
         sub_title: Research and Technology Consultan
@@ -89,22 +90,22 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Federal University of Rio Grande do Norte
         sub_title: PhD Electrical and Computer Engineering
         caption: September 2011- May 2016
 
-      - layout: top-left
+      - layout: left
         title: Federal University of Rio Grande do Norte
         sub_title: M.Sc. Systems and Computing
         caption: January 2009 – November 2010
 
-      - layout: top-left
+      - layout: left
         title: Federal Institute of Education Science and Technology of Rio Grande do Norte
         sub_title: Graduate in Technology and Software Development
         caption: July 2004 - July 2009
 
-      - layout: top-left
+      - layout: left
         title: Federal University of Rio Grande do Norte
         sub_title: Graduate in Mathematics
         caption: July 2004 - July 2009
