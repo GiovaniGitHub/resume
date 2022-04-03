@@ -28,6 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   Software Engineer with 15 years of experience in the area both teaching and developing systems. 
   In the last 6 years in backend development and data engineering using languages like python, 
   javascript and scala.
+  
   In view of the rapid evolution of development technologies, I don't know other ways of work other 
   than through constant learning and sharing.
 content:
@@ -89,13 +90,25 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: Federal University of Rio Grande do Norte
+        sub_title: PhD Electrical and Computer Engineering
+        caption: September 2011- May 2016
+
+      - layout: top-right
+        title: Federal University of Rio Grande do Norte
+        sub_title: M.Sc. Systems and Computing
+        caption: January 2009 – November 2010
+
+      - layout: top-right
+        title: Federal Institute of Education Science and Technology of Rio Grande do Norte
+        sub_title: Graduate in Technology and Software Development
+        caption: July 2004 - July 2009
+
+      - layout: top-right
+        title: Federal University of Rio Grande do Norte
+        sub_title: Graduate in Mathematics
+        caption: July 2004 - July 2009
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
