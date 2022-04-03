@@ -86,23 +86,28 @@ content:
         description: | # this will include new lines to allow paragraphs
             Support for research, review of articles and works for publication, 
             implementation and proposals for solutions to problems using Machine Learning, 
-            Digital Image and Signal Processing and Statistical Analysis.  
+            Digital Image and Signal Processing and Statistical Analysis.
+
   - title: Education
     layout: list
     content:
-        - title: PhD Electrical and Computer Engineering
+        - layout: left
+        title: PhD Electrical and Computer Engineering
         sub_title: Federal University of Rio Grande do Norte
         caption: September 2011- May 2016
 
-        - title: M.Sc. Systems and Computing
+        - layout: left
+        title: M.Sc. Systems and Computing
         sub_title: Federal University of Rio Grande do Norte
         caption: January 2009 – November 2010
 
-        - title: Graduate in Technology and Software Development
+        - layout: left
+        title: Graduate in Technology and Software Development
         sub_title: Federal Institute of Education Science and Technology of Rio Grande do Norte
         caption: July 2004 - July 2009
 
-        - title: Graduate in Mathematics
+        - layout: left
+        title: Graduate in Mathematics
         sub_title: Federal University of Rio Grande do Norte
         caption: July 2004 - July 2009
 
