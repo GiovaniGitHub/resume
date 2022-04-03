@@ -145,8 +145,8 @@ content:
         sub_title: January 1999 - March 2003
         caption: Degree
         description: >
-        Degree in Mathematics with emphasis on analytical and pure mathematics and training 
-        for teaching.
+          Degree in Mathematics with emphasis on analytical and pure mathematics and training 
+          for teaching.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
