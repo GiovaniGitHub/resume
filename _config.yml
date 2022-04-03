@@ -15,7 +15,7 @@ website: Your website (eg. https://google.com)(optional)
 website_title: https://giovanigithub.github.io/resume
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
@@ -25,36 +25,11 @@ linkedin_username: giovaninobrega
 
 about_profile_image: images/avatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
-<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+Software Engineer with 15 years of experience in the area both teaching 
+and developing systems. In the last 6 years in backend development and data 
+engineering using languages like python, javascript and scala.
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
-  #                     # other value (or no value) means no border will be displayed
-  #       title: Project name
-  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       link_text: Link Text
-  #       additional_links:
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #           icon: fab fa-github
-  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #       quote: >
-  #         Short overview of the project (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description about the work on/with the project
   - title: Experience
     layout: list
     content:
