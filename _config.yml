@@ -115,7 +115,6 @@ content:
     layout: list
     content:  
       - title: PhD
-        border: weak
         sub_title: September 2011- May 2016
         caption: Federal University of Rio Grande do Norte
         # quote: >
