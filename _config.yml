@@ -25,13 +25,14 @@ linkedin_username: giovaninobrega
 
 about_profile_image: images/avatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   # - title: Projects # Title for the section
@@ -57,7 +58,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Red Ventures Brazil
         sub_title: Software Engineer
         caption: Date Range (eg. January 2022 - present)
@@ -68,7 +69,7 @@ content:
           Development of notebooks using the scala, python and SQL languages with the 
           spark framework (and pyspark) executed in DataBricks in order to extract data 
           from different data sources (log files, relational databases...).
-      - layout: right
+      - layout: left
         title: Stone
         sub_title: Software Engineer
         caption: November 2020 - December 2021
@@ -79,7 +80,7 @@ content:
           Development and maintenance of systems associated with the company's billing process. 
           Technologies such as Python, NodeJS and PostgreSQL with Docker, 
           Kubernetes using Google Cloud Platform solutions were used for the development.
-      - layout: right
+      - layout: left
         title: QuantticsAI
         sub_title: Software Engineer
         caption: September 2020 - December 2020 
@@ -88,7 +89,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Development of bots and web scrapers with Python and models to mining with R.
-      - layout: right
+      - layout: left
         title: GTP Automation
         sub_title: Software Engineer
         caption: Juny 2019 -- November 2019 
@@ -97,7 +98,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Development of bots and web scrapers with Python and models to mining with R.
-      - layout: right
+      - layout: left
         title: LAIS - Laboratório de Inovação Tecnologia em Saúde
         sub_title: Research and Technology Consultan
         caption: January 2015 – December 2019 
