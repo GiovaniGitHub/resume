@@ -90,20 +90,20 @@ content:
   - title: Education
     layout: list
     content:
-        title: Federal University of Rio Grande do Norte
-        sub_title: PhD Electrical and Computer Engineering
+        - title: PhD Electrical and Computer Engineering
+        sub_title: Federal University of Rio Grande do Norte
         caption: September 2011- May 2016
 
-        title: Federal University of Rio Grande do Norte
-        sub_title: M.Sc. Systems and Computing
+        - title: M.Sc. Systems and Computing
+        sub_title: Federal University of Rio Grande do Norte
         caption: January 2009 – November 2010
 
-        title: Federal Institute of Education Science and Technology of Rio Grande do Norte
-        sub_title: Graduate in Technology and Software Development
+        - title: Graduate in Technology and Software Development
+        sub_title: Federal Institute of Education Science and Technology of Rio Grande do Norte
         caption: July 2004 - July 2009
 
-        title: Federal University of Rio Grande do Norte
-        sub_title: Graduate in Mathematics
+        - title: Graduate in Mathematics
+        sub_title: Federal University of Rio Grande do Norte
         caption: July 2004 - July 2009
 
   - title: A Little More About Me
