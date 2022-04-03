@@ -117,18 +117,36 @@ content:
       - title: Federal University of Rio Grande do Norte
         border: weak
         sub_title: September 2011- May 2016
-        caption: PhD Electrical and Computer Engineering 
+        caption: Posgraduate
         # quote: >
         #   Short institution or course description
-        # description: >
-        #   Description of qualification
+        description: >
+          PhD Electrical and Computer Engineering.
+          The research was focused on the application of statistical and machine learning 
+          methods for the processing of medical images.
+
       - layout: left
         title: Federal University of Rio Grande do Norte
         sub_title: January 2009 – November 2010
-        caption: M.Sc. Systems and Computing
-        # description: >
-        #   Description of qualification
+        caption: Posgraduate
+        description: >
+          Master's Systems and Theory of Computing with emphasis on computational mathematics.
 
+      - layout: left
+        title: Federal Institute of Education Science and Technology of Rio Grande do Norte
+        sub_title: July 2004 - July 2009
+        caption: Degree
+        description: >
+          Graduated in Technology and Software Development with emphasis on analysis, development
+          and deployment of web systems and database administration.
+
+      - layout: left
+        title: Federal University of Rio Grande do Norte
+        sub_title: January 1999 - March 2003
+        caption: Degree
+        description: >
+        Degree in Mathematics with emphasis on analytical and pure mathematics and training 
+        for teaching.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
