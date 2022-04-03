@@ -9,9 +9,9 @@ version: 2
 name: Giovani Ângelo Silva da Nóbrega
 title: Software Engineer
 email: giovani.angelo@gmail.com
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 website_title: https://giovanigithub.github.io/resume
 
 # Dark Mode (true/false/never)
@@ -28,7 +28,8 @@ about_content: | # this will include new lines to allow paragraphs
   Software Engineer with 15 years of experience in the area both teaching and developing systems. 
   In the last 6 years in backend development and data engineering using languages like python, 
   javascript and scala.
-  <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  In view of the rapid evolution of development technologies, I don't know other ways of work other 
+  than through constant learning and sharing.
 content:
   - title: Experience
     layout: list
